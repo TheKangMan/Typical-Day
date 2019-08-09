@@ -1,4 +1,4 @@
-# SoarCS 2019!
+# Typical Day
 
 <!-- Note, the line below this one is what links to your screenshot, **DO NOT REMOVE** -->
 ![my_screenshot](./TypicalDay.png)
