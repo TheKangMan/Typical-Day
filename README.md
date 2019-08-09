@@ -1,7 +1,7 @@
 # SoarCS 2019!
 
 <!-- Note, the line below this one is what links to your screenshot, **DO NOT REMOVE** -->
-![my_screenshot](./Typical Day.jpg)
+![my_screenshot](./Screen Shot 2019-08-09 at 9.51.49 AM.png)
 
 <!--
 In this file, you should write a brief description of what your
